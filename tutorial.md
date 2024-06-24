@@ -1,7 +1,3 @@
-Here's a structured instruction page based on the provided information about setting up Windows Subsystem for Linux (WSL), installing Jenkins on Kubernetes, and additional steps:
-
----
-
 ## Setting Up Windows Subsystem for Linux (WSL)
 
 ### Getting Started with WSL
